@@ -37,6 +37,5 @@ This project leverages **Supervised Machine Learning Regression techniques** to 
 ```text
 ├── dataset/                        # Raw & Processed Datasets
 ├── advertisement_prediction.ipynb     # Jupyter/Colab Notebook with complete workflow
-├── models/                         # Saved trained models (.pkl)
 ├── README.md                       # Documentation
 └── requirements.txt                # Required libraries & dependencies
